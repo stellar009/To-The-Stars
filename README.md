@@ -1,4 +1,7 @@
 This is developing while learning VFX from unity learn 
 
-Unity Version: 6
+Unity Version: 6.4
+
+
+
 Render  pipeline: HDRP
